@@ -1,5 +1,9 @@
 # kedai
 
+### What is Kedai?
+
+Kedai is an open source online store template built with Nuxt.js and Paddle.
+
 ## Build Setup
 
 ```bash
